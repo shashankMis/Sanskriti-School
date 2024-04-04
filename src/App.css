@@ -1,0 +1,241 @@
+.main{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 50px;
+}
+
+.school{
+    background-color: #f1e4e4;
+    border: 1px solid grey;
+    padding: 15px;
+    font-size: larger;
+    font-weight: bold;
+    width: 31%;
+    margin-top: 18px;
+    color: rgb(12, 12, 12);
+    box-shadow:  10px 5px 5px lightblue;
+    border-radius: 15px;
+}
+
+.school img{
+    width: 100%;
+    height: 150px;
+}
+
+.headDiv{
+    background-color: #b7b1b1;
+    display: flex;
+    height: 80px;
+}
+
+.header-img{
+    width: 110px;
+    height: 60px;
+    margin: 10px;
+}
+
+h1{
+    margin: 10px;
+    margin-left: 80px;
+    color: rgb(208, 249, 245);
+}
+
+.h1-home-1{
+    color: rgb(250, 61, 61);
+}
+
+.maa{
+    margin-left: 172px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 100px;
+}
+
+.navbar-div{
+    box-shadow: 6px 3px 3px rgb(209, 209, 62);
+}
+
+.nav-title{
+    background-color: #f5e5ac;
+}
+
+.btn-navbar{
+    padding: 5px;
+    margin-left: 45px;
+}
+
+.login{
+    color: rgb(243, 57, 40);
+}
+
+.carausel-image{
+    margin-top: 10px;  
+    height: 450px;
+    width: 100%;
+}
+
+.p-home{
+    margin-left: 55px;
+    margin-top: 20px;
+}
+.footer{
+    background-color: rgb(214, 177, 248);
+    color: black;
+    font-size: larger;
+    padding: 25px;
+}
+
+.study-material{
+    width: 100%;
+    height: 250px;
+}
+
+.about-p{
+    margin: 35px;
+    width: 60%;
+}
+
+.about-image{
+    float: right;
+    height: 55%;
+    width: 30%;
+}
+
+.about-vision{
+    margin-left: 25px;
+}
+
+.about-p2{
+    margin-left: 25px;
+}
+
+.about-p3{
+    margin-left: 22px;
+    font-weight:600;
+}
+
+.admission-p{
+    font-weight: bold;
+    visibility: visible;
+    text-align: center;
+    width: 25%;
+    background-color: black;
+    margin-left: 30%;
+    color: white;
+    margin-top: 20px;
+}
+
+.admission-img{
+    float: right;
+    height: 55%;
+    width: 30%;
+}
+
+.h2-facilities{
+    margin-left: 20px;
+}
+
+.library{
+    width: 30%;
+    margin: 15px;
+    height: 270px;
+}
+
+.contact-img{
+    margin-left: 80px;
+    width: 80%;
+    height: 190px;
+}
+
+ .login-table{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    padding: 20px;
+    border: 2px solid yellowgreen;
+    width: 40%;
+    margin-left: 20%;
+    margin-top: 3%;
+    margin-bottom: 3%;
+} 
+
+.login-row{
+    margin: 10px;
+}
+
+.login-row1{
+    padding-left: 50px;
+    color: red;
+}
+
+.create-form{
+    width: 50%;
+    margin-left: 20%;
+    padding: 10px;
+    border: 2px solid black;
+    z-index: -1;
+}
+
+.account-image{
+    z-index: -1;
+}
+
+.success-img{
+    margin-left: 35%;
+    margin-top: 15px;
+}
+
+.h1-success{
+    color: greenyellow;
+    margin-left: 20%;
+}
+
+.goto-login{
+    color: green;
+    padding: 15px;
+    margin-left: 40%;
+    margin-top: 5px;
+    margin-bottom: 3px;
+}
+
+.payment{
+    background-color: #d4d7d7;
+    border: 2px solid grey;
+    padding: 15px;
+    font-size: larger;
+    font-weight: bold;
+    width: 31%;
+    margin-top: 18px;
+    color: rgb(12, 12, 12);
+    box-shadow:  10px 5px 5px rgb(224, 189, 180);
+    border-radius: 15px;
+}
+
+.payment-title{
+    color: rgb(255, 7, 135);
+    margin-left:5px;
+}
+
+.payment-heading{
+    color: rgb(169, 34, 214);
+    font-style: italic;
+    margin-left: 20%;
+    margin-top: 10px;
+}
+
+.input-payment{
+    margin: 15px;
+}
+
+.payment-btn{
+    background-color: #88e781;
+    margin-left: 45px;
+}
+
+.main1{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    padding: 20px;
+}

@@ -1,0 +1,40 @@
+
+[
+    {   
+      "Title": "ABOUT US",
+      "Message":"Here You Will Know About Us Like What We are and Many More.....",
+      "Poster": "https://wallpapercave.com/wp/wp4385848.jpg",
+      "link":"/about"
+    },
+    {
+      "Title": "HOME",
+      "Message":"This is the Main Page where you get the Details and Many More.... ",
+      "Poster": "https://ceblog.s3.amazonaws.com/wp-content/uploads/2018/08/28183850/home_post_2.gif",
+      "link":"/home"
+    },
+    {
+      "Title": "ADMISSION SECTION",
+      "Message":"Here You Will Know About Admission Process Like What you have to do and Many More..... ",
+      "Poster": "https://www.oneacademyindia.com/wp-content/uploads/2019/10/admission-open-gif-11.gif",
+      "link":"/admission"
+    },
+    {
+      "Title": "OUR FACILITIES",
+      "Message":"We provide more than 5 and best Facilities to our Students ",
+      "Poster": "https://cdn.dribbble.com/users/291221/screenshots/1890514/hatchback-lab-.gif",
+      "link":"/facilities"
+    },
+    {
+      "Title": "FEE STRUCTURES",
+      "Message":"You will Know About Our Fee Structure Related To Every Class",
+      "Poster": "https://media2.giphy.com/media/jxcn3UvgidznqtsaIV/giphy.gif",
+      "link":"/feeStructure"
+    },
+    {
+      "Title": "CONTACT ",
+      "Message":"Our Contact Details.. ",
+      "Poster": "https://gifographics.co/wp-content/uploads/2017/01/contact-us.gif",
+      "link":"/contact"
+    }
+  ]
+ 
