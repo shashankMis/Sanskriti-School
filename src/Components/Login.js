@@ -1,11 +1,11 @@
 import { useState } from "react";
-import { Link, useNavigate } from "react-router-dom"; // Import useNavigate instead of useHistory
+import { Link, useNavigate } from "react-router-dom"; 
 import Payment from "./Payment";
 
 export default function Login() {
   const [username, setUsername] = useState("");
   const [password, setPassword] = useState("");
-  const navigate = useNavigate(); // Use useNavigate instead of useHistory
+  const navigate = useNavigate(); 
 
   const check = () => {
     return username === "shashank" && password === "123";
